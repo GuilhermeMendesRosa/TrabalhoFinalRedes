@@ -52,7 +52,7 @@ Para validar o sistema de monitoramento, siga os passos abaixo:
    - Retire a fita adesiva da garrafa para permitir o esvaziamento gradual.
    - Observe os dados enviados ao broker MQTT e os alertas gerados no Telegram.
 
-Para mais detalhes, assista ao vídeo do teste completo: [Vídeo do Teste](#).
+Para mais detalhes, assista ao vídeo do teste completo: [Vídeo do Teste](https://www.youtube.com/watch?v=lAhaKY8f9Z4).
 
 ---
 
