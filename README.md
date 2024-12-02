@@ -53,10 +53,3 @@ Para validar o sistema de monitoramento, siga os passos abaixo:
    - Observe os dados enviados ao broker MQTT e os alertas gerados no Telegram.
 
 Para mais detalhes, assista ao vídeo do teste completo: [Vídeo do Teste](https://www.youtube.com/watch?v=lAhaKY8f9Z4).
-
----
-
-## 📡 **Arquitetura do Sistema**
-- **ESP32**: Responsável por coletar os dados do sensor de boia.
-- **Broker MQTT**: Centraliza os dados recebidos do ESP32.
-- **Telegram**: Notifica o usuário em caso de anormalidades no nível da água.
